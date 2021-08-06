@@ -1,8 +1,14 @@
-## Hi there, I'm Alfons 👋
+<h1 align='center'>Hi there, I'm Alfons 👋</h1>
 
-### I'm interested in Web Development
+<h1 align='center'>I'm a lifelong learner and have passion for developing website</h1>
 
 ### GitHub Stats:
 
-![Alfons's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsus20&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsus20&layout=compact)
+<p align="center">
+  <a href="https://github.com/alfonsus20">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfonsus20&show_icons=true&theme=radical" alt='Alfons's GitHub Stats'/>
+  </a>
+  <a href="https://github.com/alfonsus20">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsus20&layout=compact" alt="Alfons's Top Langs" />
+  </a>
+</p>
