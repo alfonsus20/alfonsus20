@@ -2,8 +2,6 @@
 
 <h2 align='center'>I'm a lifelong learner and have passion for developing website</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alfonsus20" alt="alfonsus20" /> </p>
-
 ### GitHub Stats:
 
 <p align="center">
