@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there, I'm Alfons 👋</h1>
 
-<h2 align='center'>I'm a lifelong learner and have passion for developing website</h2>
+<h2 align='center'>I'm a lifelong learner and have passion for developing websites</h2>
 
 ### GitHub Stats:
 
