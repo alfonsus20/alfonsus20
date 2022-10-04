@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/alfonsus20">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfonsus20&show_icons=true&theme=radical" alt='Alfons's GitHub Stats'/>
+    <img align="center" src="https://github-readme-stats-alfonsus20.vercel.app/api?username=alfonsus20&show_icons=true&theme=radical" alt='Alfons's GitHub Stats'/>
   </a>
   <a href="https://github.com/alfonsus20">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsus20&layout=compact" alt="Alfons's Top Langs" />
+    <img align="center" src="https://github-readme-stats-alfonsus20.vercel.app/api/top-langs/?username=alfonsus20&layout=compact" alt="Alfons's Top Langs" />
   </a>
 </p>
